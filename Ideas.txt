@@ -1,0 +1,34 @@
+Team wise Analy
+
+Particular Edition
+
+playoff analysis
+
+Overall
+
+1. Total runs scored by a team / year
+
+2. Total runs scored by a team in winning / year
+
+3. Total runs scored by a team in Losing / year
+
+4. playoff analysis
+
+More Stats:
+		Highest Run SCore with year 
+		lowest run scored with year
+		HIghest run chased
+		Lowest run defend 
+		Win percentage in chased
+		Win percentage whlie batting first
+
+(Should I add opposition score?)
+
+head to head comparison
+
+
+
+
+Extra Feature
+
+give option to user to view barplot or line plot
